@@ -1,0 +1,24 @@
+[theme]
+# Warna Utama (Primary):
+# Digunakan untuk tombol "primary", highlight slider, dan elemen interaktif aktif.
+# Kami menggunakan 'Forest Green' untuk kesan akademis dan alami.
+primaryColor = "#2E7D32"
+
+# Warna Latar Belakang (Background):
+# Digunakan untuk area utama situs.
+# Kami menggunakan 'Mint Cream' yang sangat pudar agar bersih tapi tetap terasa 'hijau'.
+backgroundColor = "#F7FBF8"
+
+# Warna Latar Belakang Sekunder (Secondary Background):
+# Digunakan untuk Sidebar, latar belakang input text, dan widget tertentu.
+# Warna hijau muda yang lebih solid untuk memberikan dimensi.
+secondaryBackgroundColor = "#E8F5E9"
+
+# Warna Teks (Text):
+# Warna teks utama.
+# Menggunakan hijau yang sangat gelap (hampir hitam) agar mudah dibaca namun tetap selaras.
+textColor = "#1B3A2B"
+
+# Font:
+# Sans serif memberikan kesan modern dan teknologi (Smart Campus).
+font = "sans serif"
