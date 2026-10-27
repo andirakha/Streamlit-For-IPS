@@ -1,3 +1,6 @@
+> [!NOTE]
+> An updated version of this project is available in [this repository](https://github.com/andirakha/ips-wifi-fingerprinting).
+
 # 🎓 Sistem Lokasi Kampus Pintar (Indoor Positioning System)
 
 Aplikasi web berbasis **Streamlit** untuk melacak posisi di dalam ruangan (*Indoor Positioning System*) di area kampus. Sistem ini menggunakan teknik *WiFi Fingerprinting* yang secara otomatis memindai sinyal Access Point (RSSI) di sekitar pengguna dan memprediksi lokasi ruangan secara *real-time* menggunakan algoritma **K-Nearest Neighbors (KNN)**.
